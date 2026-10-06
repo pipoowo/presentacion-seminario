@@ -34,6 +34,19 @@ Evaluar la influencia de los [bots políticos]{.bot} en las [decisiones electora
 - Analizar las dinámicas [bot]{.bot}-[usuario]{.humano}.
 - Contrastar la relación entre opinión personal y su decisión electoral.
 
+## Modelos Basados en Agentes
+
+- Conecta [interacciones individuales (micro)]{.humano} con la [polarización e influencia estructural (macro)]{.imp}.
+- Permite experimentar con **diferentes escenarios** empíricamente dificiles de obtener.
+- Facilita la **contrastación empírica y teórica** de las dinámicas de opinión.
+
+## Bases teóricas del modelo
+
+- [Homofilia:]{.imp} Tendencia a agruparse con pares ideológicamente afines.
+- [Espiral del Silencio:]{.imp} Autocensura por miedo al aislamiento frente a una mayoría opuesta.
+- [Susceptibilidad:]{.humano} Vulnerabilidad de un individuo ante la presión social de su red.
+- [Tolerancia:]{.humano} Umbral máximo de aceptación frente a opiniones contrarias.
+
 ## Agentes del modelo
 - [Humano:]{.humano} Opinión, decisión electoral, susceptibilidad y tolerancia.
 - [Bot:]{.bot} Opinión fija y alta actividad.
@@ -66,7 +79,7 @@ Evaluar la influencia de los [bots políticos]{.bot} en las [decisiones electora
 - **Mediano-plazo:** creación de la simulación en sí. 
 - **Largo-plazo:** validación empírica del modelo con datos de encuestas de preferencia electoral.
 
-# **Gracias**
+# **Gracias por su atención**
 
 ::: {style="text-align: center;"}
 **Felipe Vega Gandolfo**<br>
