@@ -55,14 +55,14 @@ Evaluar la influencia de los [bots políticos]{.bot} en las [decisiones electora
 
 ![](fig4.png){.r-stretch fig-align="center"}
 
-## Método: Escenarios de simulación
+## Escenarios de simulación
 1. Control: [red orgánica]{.humano}.
 2. [Densidad de bots:]{.bot} infiltración progresiva hasta 40%.
 3. Tolerancia y susceptibilidad [variable]{.imp}.
 
 
 ## Pasos a seguir
-- **Corto-plazo:** fortalecimiento de los antecendentes con teoría sociológica sustantiva.
+- **Corto-plazo:** fortalecimiento de los antecedentes con teoría sociológica sustantiva.
 - **Mediano-plazo:** creación de la simulación en sí. 
 - **Largo-plazo:** validación empírica del modelo con datos de encuestas de preferencia electoral.
 
