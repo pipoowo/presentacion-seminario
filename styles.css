@@ -1,0 +1,63 @@
+/* Fondo azul marino grisáceo */
+body, .reveal {
+  background-color: ##FFFFFF; /* azul marino grisáceo */
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+/* Fondo también para las slides */
+.reveal .slides {
+  background-color: ##FFFFFF;
+}
+
+/*letras cuerpo */
+.reveal p, 
+.reveal li {
+     font-size: 38px;
+  color: #333333; 
+}
+
+/*Titulos */
+.reveal h1,
+.reveal h2 {
+    font-size: 54px;
+  color: #333333; 
+  text-align: center;
+
+}
+
+.bot {
+  color: #F46D43;
+  font-weight: bold;
+}
+
+.humano {
+  color: #2166AC;
+  font-weight: bold;
+}
+
+.info {
+  color: #ffd06c;
+  font-weight: bold;
+}
+
+.imp {
+  color: #9504d4ff;
+  font-weight: bold;
+}
+
+/* Centrar todo el bloque de la portada */
+.reveal .quarto-title-block {
+  display: flex !important;
+  flex-direction: column !important; /* apila título, subtítulo, autor */
+  align-items: center !important;    /* centra horizontalmente */
+  justify-content: center !important; /* centra verticalmente */
+  height: 100% !important;           /* ocupa toda la slide */
+  text-align: center !important;
+}
+
+
+
+
