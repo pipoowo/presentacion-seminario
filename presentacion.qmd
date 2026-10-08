@@ -19,12 +19,12 @@ echo: true
 ## El nuevo escenario de la opinión pública
 - Cuarta ola de la democracia digital: big data, [IA]{.bot} y *fake news*. 
 - [Adaptación de la interacción]{.humano} a espacios online. 
-- Aislamiento grupal por [estructuras algorítmicas]{.imp}.
+- Aislamiento grupal por [estructuras algorítmicas:]{.imp} burbujas de filtro y cámaras de eco.
 
 ## Irrupción de los bots en redes sociales
-- [Bots políticos:]{.bot} *zealots* artificiales.
-- Modus operandi: *astroturfing*.
-- [Amplificadores emocionales]{.imp}.
+- [Bots políticos como *zealots artificiales*:]{.bot} entidades artificiales que difunden opiniones relacionadas a una posición en específico.
+- Modus operandi: *astroturfing* a través de un actuar coordinado, automatizado y orgánico.
+- [Amplificadores emocionales]{.imp} de emociones negativas y rápidas.
 
 ## Objetivos de investigación
 Evaluar la influencia de los [bots políticos]{.bot} en las [decisiones electorales]{.humano} de los usuarios de redes digitales:
@@ -42,10 +42,10 @@ Evaluar la influencia de los [bots políticos]{.bot} en las [decisiones electora
 
 ## Bases teóricas del modelo
 
-- [Homofilia:]{.imp} Tendencia a agruparse con pares ideológicamente afines.
-- [Espiral del Silencio:]{.imp} Autocensura por miedo al aislamiento frente a una mayoría opuesta.
-- [Susceptibilidad:]{.humano} Vulnerabilidad de un individuo ante la presión social de su red.
-- [Tolerancia:]{.humano} Umbral máximo de aceptación frente a opiniones contrarias.
+- [Homofilia:]{.imp} tendencia a agruparse con pares ideológicamente afines.
+- [Espiral del Silencio:]{.imp} autocensura por miedo al aislamiento frente a una mayoría opuesta.
+- [Susceptibilidad:]{.humano} umbral de influencia ante la presión social.
+- [Tolerancia:]{.humano} umbral de aceptación frente a opiniones contrarias.
 
 ## Agentes del modelo
 - [Humano:]{.humano} Opinión, decisión electoral, susceptibilidad y tolerancia.
